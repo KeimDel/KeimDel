@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/G4rIGiMVtrJ1S/giphy.gif?cid=ecf05e4765nh9otbkpjwfwb57mrzzwhslptw0gtzcf4eyhi0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Love" width="300">
+    <img src="https://media.giphy.com/media/ekmqf0neHBcOI/giphy.gif?cid=ecf05e47fpak524bu7gab8ktnbfa7zvzysbq3gvpjdkuadqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Love" width="300">
 </p>
 
 <h1 align="center" style="color: #3498db; font-family: 'Trebuchet MS', sans-serif; color: darkblue;">
