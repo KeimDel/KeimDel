@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/VIKa3CjZDCoymNcBY5/giphy.gif?cid=82a1493bgswtrpfsnjuwmgqw7hlbc69hqfc9egkavch9yr4o&ep=v1_gifs_trending&rid=giphy.gif&ct=g" alt="Love" width="300">
+    <img src="https://media.giphy.com/media/Y8ocCgwtdj29O/giphy.gif?cid=ecf05e47409whd3py8g66lf56p0i37wdetu889z41burwcbg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Love" width="300">
 </p>
 
 <h1 align="center" style="color: #3498db; font-family: 'Arial', sans-serif;">
-    안녕하세요, I am Delan! 👋
+    안녕하세요, You can call me Delan! 👋
 </h1>
 
 I am passionate about data science and constantly exploring the fascinating world of Artificial Intelligence. 📈
