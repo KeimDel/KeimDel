@@ -1,3 +1,5 @@
+![Love](https://media.giphy.com/media/VIKa3CjZDCoymNcBY5/giphy.gif?cid=82a1493bgswtrpfsnjuwmgqw7hlbc69hqfc9egkavch9yr4o&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
 # 👋 Hi, I'm Delan! 
 I am passionate about data science and constantly exploring the fascinating world of Artificial Intelligence. 📈
 I’m driven by curiosity and love finding innovative ways to integrate AI into our daily lives.
