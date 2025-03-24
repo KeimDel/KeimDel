@@ -9,17 +9,14 @@ My goal is to create impactful projects with my team that make a difference for 
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
 - **Others:** Git, Github, PowerBI, Tableau
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact&theme=tokyonight)
-
 ## 🌐 Social Media Links
-- [LinkedIn](https://www.linkedin.com/in/keimaz-delan-74b92324autm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/keimaz-delan-74b92324a)
 - [Instagram](https://www.instagram.com/k.lanx?igsh=NW5oZ2l2Znl2cThr)
 - [Portfolio](https://drive.google.com/file/d/15w4xHdK7DY32AdYqx-7-oXtbMogCgNU-/view?usp=sharing)
 
 ## 🎉 Fun Fact
 I’m of Bataknese ethnicity and I love experiencing different cultures! 🌍
 
-![Coffee Coding](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Coffee Coding]([https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif](https://media.giphy.com/media/6UAk2UiNKDBBQn5NUX/giphy.gif?cid=82a1493bbco93rw97oluxunjr6j04dazhl10ekcem6d11lq8&ep=v1_gifs_trending&rid=giphy.gif&ct=g))
+
 
