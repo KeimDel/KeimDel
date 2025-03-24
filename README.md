@@ -4,10 +4,10 @@ I’m driven by curiosity and love finding innovative ways to integrate AI into 
 My goal is to create impactful projects with my team that make a difference for others! 🚀
 
 ## 💻 Skills & Tech Stack
-- **Languages:** Python, R, SQL
+- **Softwares:** Python, R, SPSS
 - **Frameworks:** Scikit-learn, TensorFlow, PyTorch
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Others:** Git, Github
+- **Others:** Git, Github, PowerBI, Tableau
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight)
