@@ -14,9 +14,9 @@ My goal is to create impactful projects with my team that make a difference for 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact&theme=tokyonight)
 
 ## 🌐 Social Media Links
-- [LinkedIn]([https://linkedin.com/in/arifian853](https://www.linkedin.com/in/keimaz-delan-74b92324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [Instagram]([https://twitter.com/arifian853](https://www.instagram.com/k.lanx?igsh=NW5oZ2l2Znl2cThr))
-- [Portfolio]([https://yourportfolio.com](https://drive.google.com/file/d/15w4xHdK7DY32AdYqx-7-oXtbMogCgNU-/view?usp=sharing))
+- ![LinkedIn]([https://linkedin.com/in/arifian853](https://www.linkedin.com/in/keimaz-delan-74b92324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- ![Instagram]([https://twitter.com/arifian853](https://www.instagram.com/k.lanx?igsh=NW5oZ2l2Znl2cThr))
+- ![Portfolio]([https://yourportfolio.com](https://drive.google.com/file/d/15w4xHdK7DY32AdYqx-7-oXtbMogCgNU-/view?usp=sharing))
 
 ## 🎉 Fun Fact
 I’m of Bataknese ethnicity and I love experiencing different cultures! 🌍
