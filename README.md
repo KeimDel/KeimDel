@@ -1,6 +1,10 @@
 ![Love](https://media.giphy.com/media/VIKa3CjZDCoymNcBY5/giphy.gif?cid=82a1493bgswtrpfsnjuwmgqw7hlbc69hqfc9egkavch9yr4o&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
-# <p style="font-family: 'Courier New', Courier, monospace;">Hola, I'm Delan! 👋.</p>
+<h1 align="center">
+    안녕하세요, I am Delan! 👋
+    <br>
+    <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300">
+</h1>
 
 I am passionate about data science and constantly exploring the fascinating world of Artificial Intelligence. 📈
 I’m driven by curiosity and love finding innovative ways to integrate AI into our daily lives.
@@ -18,7 +22,7 @@ My goal is to create impactful projects with my team that make a difference for 
 - [Portfolio](https://drive.google.com/file/d/15w4xHdK7DY32AdYqx-7-oXtbMogCgNU-/view?usp=sharing)
 
 ## 🎉 Fun Fact
-> I’m of Bataknese ethnicity and I love experiencing different cultures! 🌍
+I’m of Bataknese ethnicity and I love experiencing different cultures! 🌍
 
 ![Let's Go](https://media.giphy.com/media/6UAk2UiNKDBBQn5NUX/giphy.gif?cid=82a1493bbco93rw97oluxunjr6j04dazhl10ekcem6d11lq8&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
